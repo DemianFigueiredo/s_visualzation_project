@@ -1,3 +1,4 @@
+![mapacountries](Mapa_legal_decrime.png)
 
 
 # Cannabis Legalization Effects Visualization
@@ -38,3 +39,4 @@ Perform a detailed examination of the evolution of crime rates, rehab admission 
 
 # Conclusion
 This Tableau visualization project provides a first overview analysis of the effects of cannabis decriminalization/legalization on various KPIs related to crime rates, prisoners, drug seizures, and addiction treatment. It presents insights into the impact of cannabis policy changes on different countries and provides a foundation for further analysis and interpretation of the data.
+
